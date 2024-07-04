@@ -536,6 +536,26 @@ PrefabInstance:
       propertyPath: m_text
       value: Quantity
       objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8574118207200430231, guid: 66336e98efc5b49499b5977d0642a3ae,
         type: 3}
       propertyPath: m_Name
@@ -665,6 +685,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: Item
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8574118207200430231, guid: 66336e98efc5b49499b5977d0642a3ae,
         type: 3}
@@ -796,6 +836,26 @@ PrefabInstance:
       propertyPath: m_text
       value: Availability
       objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8574118207200430231, guid: 66336e98efc5b49499b5977d0642a3ae,
         type: 3}
       propertyPath: m_Name
@@ -925,6 +985,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: Price
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332446596063741239, guid: 66336e98efc5b49499b5977d0642a3ae,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8574118207200430231, guid: 66336e98efc5b49499b5977d0642a3ae,
         type: 3}
